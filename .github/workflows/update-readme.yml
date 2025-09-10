@@ -1,0 +1,22 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每天 UTC 0 点执行（北京时间早上 8 点）
+  workflow_dispatch:      # 允许手动触发
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update timestamp
+        run: |
+          now=$(date -u +"%Y-%m-%d %H:%M UTC")
+          sed -i "s|<!-- LAST_UPDATED -->.*|最后更新：$now <!-- LAST_UPDATED -->|" README.md
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update timestamp" || echo "No changes"
+          git push
