@@ -21,8 +21,8 @@
 ---
 
 ## 📌 推荐项目
-- [Project-Driven-Topic-Checker](https://github.com/TPPPP72/Project-Driven-Topic-Checker) — 基于项目驱动的题目检查器  
-- [NarutoRecordManager](https://github.com/TPPPP72/NarutoRecordManager) — 火影相关记录管理工具  
+- [Project-Driven-Topic-Checker](https://github.com/TPPPP72/Project-Driven-Topic-Checker) — 基于项目驱动的C++题目检查器  
+- [NarutoRecordManager](https://github.com/TPPPP72/NarutoRecordManager) — 火影忍者手游录像管理工具  
 
 ---
 
@@ -32,4 +32,4 @@
 
 ---
 
-⏰ 最后更新：最后更新：2025-09-10 20:01 UTC <!-- LAST_UPDATED -->
+⏰ 最后更新：2025-09-10 20:01 UTC <!-- LAST_UPDATED -->
