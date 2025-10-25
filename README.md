@@ -12,14 +12,6 @@
 
 ---
 
-## 📊 GitHub 统计
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TPPPP72&show_icons=true&theme=radical" alt="TPPPP's github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TPPPP72&layout=compact&theme=radical" alt="top languages" />
-</p>
-
----
-
 ## 📌 推荐项目
 - [Project-Driven-Topic-Checker](https://github.com/TPPPP72/Project-Driven-Topic-Checker) — 基于项目驱动的C++题目检查器  
 - [NarutoRecordManager](https://github.com/TPPPP72/NarutoRecordManager) — 火影忍者手游录像管理工具  
