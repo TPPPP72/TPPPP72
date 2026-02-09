@@ -61,17 +61,9 @@
 * **CN:** 基于 C++17 开发的跨平台命令行交互库（受 CS61A 'ok' 启发）。支持选择题、代码阅读等交互模式，已应用于我的 Bilibili C++ 入门课程教学。
 * *Spec: Built with `std::string_view`, High-portability, CMake-ready.*
 
----
-
-## 📊 GitHub Stats / 统计
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TPPPP72&layout=compact&theme=transparent&hide_border=true" height="160px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TPPPP72&theme=zenburn" height="180px" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TPPPP72&theme=transparent&hide_border=true" height="180px" />
 </p>
-
----
-
-## ✉️ Contact / 联系方式
-
-- **QQ:** `906483498`
-- **Portfolio:** [tpppp.wiki](https://www.tpppp.wiki)
