@@ -1,35 +1,77 @@
-# 你好，我是 TPPPP 👋
+# 👋 Hi, I'm TPPPP
 
-## 关于我
-- 🌱 正在不断学习中的编程爱好者
-- 💬 喜欢探索不同语言和技术栈
-- ⚡ 兴趣：编程、音乐、游戏
+<p align="center">
+  <a href="https://www.tpppp.wiki">🌐 访问我的主页 (Visit Portfolio)</a> • 
+  <a href="#-projects--项目展示">📂 核心项目</a> • 
+  <a href="https://space.bilibili.com/358783831">📺 Bilibili</a>
+</p>
+
+<table style="width: 100%">
+  <tr>
+    <th width="50%">English</th>
+    <th width="50%">中文</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <ul>
+        <li>🌱 <b>Freshman</b> majoring in CS, focused on <b>System Programming</b>.</li>
+        <li>🚀 Specialized in <b>Modern C++ (17/20)</b> and high-performance frameworks.</li>
+        <li>⚡ Passionate about <b>Game Engine Architecture</b> and Low-level Abstraction.</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <ul>
+        <li>🌱 <b>大一在读</b>，主攻<b>系统编程</b>方向。</li>
+        <li>🚀 擅长 <b>Modern C++ (17/20)</b> 与高性能框架开发。</li>
+        <li>⚡ 对<b>游戏引擎架构</b>与底层抽象有深厚兴趣。</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 技能
-- 语言：`C++`、`C#`、`Java`、`Python`
+## 🛠 Tech Stack / 技术栈
+
+| Field | Technologies |
+| :--- | :--- |
+| **C++ Ecosystem** | C++17/20, Modern CMake, SDL3, RAII-Design, Multi-threading |
+| **Python Ecosystem** | Python 3, Pytorch, Numpy
+| **Full Stack** | Astro (SSR), TypeScript, Drizzle ORM, SQLite |
+| **Tools** | Git, Linux, Docker, Typst, Markdown |
 
 ---
 
-## 📊 GitHub 统计
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TPPPP72&show_icons=true&theme=radical" alt="TPPPP's github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TPPPP72&layout=compact&theme=radical" alt="top languages" />
+## 🚀 Projects / 核心开源项目
+
+### 🎮 SGF (Simple Game Framework)
+> **Modern C++ modular 2D engine architecture**
+* **EN:** A modular 2D framework built with C++20. It abstracts hardware layers into RAII-compliant interfaces, featuring a core kernel, a state-driven animation player, and an efficient resource manager.
+* **CN:** 基于 C++20 构建的模块化 2D 框架。将硬件层抽象为符合 RAII 规范的接口，包含核心内核、状态驱动动画播放器及高效资源管理系统。
+* *Spec: `std::string_view` optimized, CMakePresets supported.*
+
+### ✅ Project-Driven Topic Checker
+> **Black-box & White-box testing framework for C++ projects**
+* **EN:** An automated evaluation tool for complex C++ projects. It uses **macro injection** (`#define private public`) to bypass access modifiers, enabling deep runtime state inspection.
+* **CN:** 针对复杂 C++ 项目开发的自动化评测工具。利用**宏注入**技术（权限破解）绕过访问限制，实现深度的运行时状态检查与验证。
+
+### ❓ Interactive Quiz Library
+> **Cross-platform CLI interactive framework**
+* **EN:** A C++17 library for building interactive CLI quizzes (inspired by CS61A 'ok'). Supports multiple-choice and code-reading questions with cross-platform compatibility (Win/Linux/Mac).
+* **CN:** 基于 C++17 开发的跨平台命令行交互库（受 CS61A 'ok' 启发）。支持选择题、代码阅读等交互模式，已应用于我的 Bilibili C++ 入门课程教学。
+* *Spec: Built with `std::string_view`, High-portability, CMake-ready.*
+
+---
+
+## 📊 GitHub Stats / 统计
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TPPPP72&layout=compact&theme=transparent&hide_border=true" height="160px" />
 </p>
 
 ---
 
-## 📌 推荐项目
-- [Project-Driven-Topic-Checker](https://github.com/TPPPP72/Project-Driven-Topic-Checker) — 基于项目驱动的题目检查器  
-- [NarutoRecordManager](https://github.com/TPPPP72/NarutoRecordManager) — 火影相关记录管理工具  
+## ✉️ Contact / 联系方式
 
----
-
-## ✉️ 联系方式
-- Email: [pei21270@126.com](pei21270@126.com)  
-- QQ: `906483498`
-
----
-
-> 最后更新：<!-- LAST_UPDATED -->
+- **QQ:** `906483498`
+- **Portfolio:** [tpppp.wiki](https://www.tpppp.wiki)
